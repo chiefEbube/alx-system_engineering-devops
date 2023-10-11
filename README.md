@@ -1,4 +1,6 @@
 # System Engineering Devops  
 - Devops  
 - Shell  
-- Bash
+- Bash  
+- Network  
+- SysAdmin
